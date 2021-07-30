@@ -1,4 +1,5 @@
 # lets-test
+<<<<<<< HEAD
 
 Added one line
 
@@ -9,3 +10,7 @@ More more features
 Debug
 
 And more features
+=======
+ +1
+ test
+>>>>>>> origin/test
